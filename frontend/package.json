@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.19",
+    "common": "workspace:*",
+    "jotai": "^2.9.1",
     "postcss": "^8.4.40",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
